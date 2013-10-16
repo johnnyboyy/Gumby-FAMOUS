@@ -1,3 +1,86 @@
 // Your custom SCSS should be written here...
 
 
+.tab_field{
+  min-height: 100px;
+}
+
+.profile_pic {
+  width: 300px;
+  height: 300px;
+}
+
+.tab_field_pic {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.btn {
+  border-radius: 4px;
+}
+
+.wrapper {
+  background: #eee;
+}
+
+#inner-nav {
+  padding: 5px 0;
+
+  .snav {
+    float: none;
+    margin: 0 10px;
+    border: none;
+    min-width: 150px;
+    font-size: 10pt;
+  }
+
+  .nav-btn {
+    float: right;
+  }
+}
+
+.navbar-margin {
+  padding: 10px 0;
+
+}
+
+audio.song_player{
+  float: right;
+  clear: right;
+}
+
+h5.artist {
+  margin-left: 20px;
+}
+
+p.genres {
+  font-size: 11pt;
+}
+
+div {
+  a.x-button {
+    float: right;
+
+    i{
+
+    }
+  }
+}
+
+
+span.tab-btns {
+  float: right;
+  margin: 5px;
+}
+
+
+
+
+
+li.cancel_btn_center {
+  margin-left: 40px;
+}
+
+

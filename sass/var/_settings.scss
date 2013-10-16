@@ -12,7 +12,7 @@ $hybrid: 16 !default;							// 16 Column Default Hybrid Grid
 $min-device-width: 320px;             // iPhone Portrait
 $tablet-device-width: 768px;          // iPad Portrait
 $document-width: $row-max-width;        // Default Document
-$max-device-width: 2880px;            // Max Document Size
+$max-device-width: 1600px;            // Max Document Size
 
 // Spacing
 $nav-distance: 0px;               // Navigation distance from the top of the viewport
@@ -125,6 +125,7 @@ $form-text-input-color: #555;
 $form-select-stroke: #ccc;
 $form-select-background: $white;
 $form-select-color: #555;
+$border-search-color: #666;
 
 // Tabs
 $tab-height: 42px;
