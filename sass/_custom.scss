@@ -37,12 +37,12 @@
   }
 
   .nav-btn {
-    float: right;
+    display: inline;
   }
 }
 
 .navbar-margin {
-  padding: 10px 0;
+  min-height: 20px
 
 }
 
